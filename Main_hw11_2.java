@@ -10,7 +10,7 @@
 // Finish the head comment with Abstract, ID, Name, and Date.
 /*
  * Title: Main_hw11_2.java
- * Abstract: A program to simulate the operations of linear probing covered in the class.
+ * Abstract: A program to simulate the operations of linear probing.
  * ID: 3111
  * Name: Aaron Johnson
  * Date: 05/05/2023
